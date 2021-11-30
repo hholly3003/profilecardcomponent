@@ -47,9 +47,9 @@ body{
 }
 
 .profile-picture{ 
-    position: absolute;
-    top: 280px;
-    /* margin-bottom: 1000px; */
+    position: relative;
+    top:-50px;
+    /* margin-bottom: 200px; */
     /* bottom: 400px; */
     border: 2px solid whitesmoke;
     /* border-color: whitesmoke; */
